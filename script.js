@@ -18,7 +18,7 @@ let grassArr = []
 let grassEaterArr = []
 let predatorArr = []
 let blackDragonArr = []
-let knightArr = []
+let knightArr = []// server
 
 function setup() {
     for (let i = 0; i < n; i++) {
