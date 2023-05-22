@@ -1,4 +1,5 @@
-class Predator {
+LivingCreature = requirel("./living")
+module.exports = class Predator extends LivingCreature{
     constructor(x, y, index) {
         this.x = x,
             this.y = y,
